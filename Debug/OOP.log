@@ -1,0 +1,3 @@
+﻿  OOP.cpp
+C:\Users\5\source\repos\Задание 1\OOP\OOP.cpp(720,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OOP.vcxproj -> C:\Users\5\source\repos\Задание 1\Debug\OOP.exe
